@@ -1,4 +1,4 @@
-import discord WISNU
+import discord
 from discord.ext import commands
 
 TOKEN = 'MTM4Nzc1NTgwNzQ4Mjg0MzE1OA.GQyt2z.LcXKijvdCjYrrvp2oV00zOnIRU-FwjAqaKmEtg'
