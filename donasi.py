@@ -19,10 +19,12 @@ async def donasi(ctx):
     embed.add_field(
         name="**1. PAKET STANDART 20K**",
         value=(
-            "- NAVY REVOLVER ×2\n"
             "- DOUBLE ACTION ×5\n"
-            "- PELURU SPESIAL ×2000\n"
-            "- HEAVY ARMOR ×1000"
+            "- NAVY REVOLVER ×3\n"
+            "- MICRO SMG x2\n"
+            "- TEC-9 x1\n"
+            "- PELURU SPESIAL ×1800\n"
+            "- HEAVY ARMOR ×150"
         ),
         inline=False
     )
@@ -30,10 +32,16 @@ async def donasi(ctx):
     embed.add_field(
         name="**2. PAKET ELITE 50K**",
         value=(
-            "- NAVY REVOLVER ×4\n"
-            "- DOUBLE ACTION ×8\n"
+            "- DOUBLE ACTION ×7\n"
+            "- NAVY REVOLVER ×7\n"
+            "- MARKSMAN PISTOL ×4\n"
+            "- MICRO SMG ×4\n"
+            "- TEC-9 ×4\n"
+            "- CARBINE RIFLE ×2\n"
+            "- AK-47 ×2\n"
+            "- BULLPUP SHOTGUN ×1\n"
             "- PELURU SPESIAL ×4000\n"
-            "- HEAVY ARMOR ×2000"
+            "- HEAVY ARMOR ×650"
         ),
         inline=False
     )
@@ -41,10 +49,17 @@ async def donasi(ctx):
     embed.add_field(
         name="**3. PAKET PLATINUM 100K**",
         value=(
-            "- NAVY REVOLVER ×6\n"
-            "- DOUBLE ACTION ×12\n"
-            "- PELURU SPESIAL ×6000\n"
-            "- HEAVY ARMOR ×4000"
+            "- DOUBLE ACTION ×10\n"
+            "- NAVY REVOLVER ×10\n"
+            "- MARKSMAN PISTOL ×6\n"
+            "- MICRO SMG ×5\n"
+            "- TEC-9 ×6\n"
+            "- CARBINE RIFLE ×4\n"
+            "- AK-47 ×3\n"
+            "- BULLPUP SHOTGUN ×3\n"
+            "- BULLPUP RIFLE ×3\n"
+            "- PELURU SPESIAL ×5600\n"
+            "- HEAVY ARMOR ×800"
         ),
         inline=False
     )
@@ -52,10 +67,17 @@ async def donasi(ctx):
     embed.add_field(
         name="**4. PAKET SULTAN 200K**",
         value=(
-            "- NAVY REVOLVER ×10\n"
-            "- DOUBLE ACTION ×20\n"
-            "- PELURU SPESIAL ×10.000\n"
-            "- HEAVY ARMOR ×8000"
+            "- DOUBLE ACTION ×15\n"
+            "- NAVY REVOLVER ×15\n"
+            "- MARKSMAN PISTOL ×7\n"
+            "- MICRO SMG ×8\n"
+            "- TEC-9 ×9\n"
+            "- CARBINE RIFLE ×7\n"
+            "- AK-47 ×7\n"
+            "- BULLPUP SHOTGUN ×6\n"
+            "- BULLPUP RIFLE ×6\n"
+            "- PELURU SPESIAL ×7700\n"
+            "- HEAVY ARMOR ×1000"
         ),
         inline=False
     )
